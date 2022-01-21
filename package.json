@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/titaniumnetwork-dev/alloy.git"
+    "url": "google.com"
   },
   "keywords": [
     "proxy",
@@ -30,10 +30,9 @@
     "workplace",
     "web filter"
   ],
-  "author": "Titanium Network",
-  "license": "ISC",
+  "author": "Fruvs",
   "bugs": {
-    "url": "https://github.com/titaniumnetwork-dev/alloy/issues"
+    "url": "https://google.com"
   },
-  "homepage": "https://github.com/titaniumnetwork-dev/alloy#readme"
+  "homepage": "https://google.com"
 }
